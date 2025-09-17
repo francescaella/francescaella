@@ -1,5 +1,5 @@
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=knorthy&label=Profile%20views&color=ff00ff&style=flat" alt="francescaella" />
+  <img src="https://komarev.com/ghpvc/?username=francescaella&label=Profile%20views&color=ff00ff&style=flat" alt="francescaella" />
 </p>
 
 <div align="center">
@@ -16,37 +16,33 @@
 </div>
 
 # About Me:
-Hi, I'm Tiffany Lyssa, a BS Computer Science student passionate about creating and innovating!
-
-Currently, I’m diving deep into designing, blending creativity with technology to build user-friendly experiences. I’m actively working on GitHub projects to sharpen my skills, with a focus on React Native for mobile development and machine learning to explore data-driven solutions.
-
-Feel free to check out my repositories and connect if you’d like to collaborate on exciting projects!
+lorem ipsum
 
 <div align="center">
-  <a href="tiffanylyssa.p@gmail.com">
+  <a href="francescaellasapida@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.instagram.com/l.ystffny/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4455F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="no.orthy" target="_blank">
+  <a href="francesca" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="[www.linkedin.com/in/aaron-jay-sopena-b6853732a](https://www.linkedin.com/in/tiffany-lyssa-4b210b281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="(https://www.linkedin.com/in/tiffany-lyssa-4b210b281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/tiffanylysa" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/lystffny" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
 
 # GitHub Stats:
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=knorthy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="145" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=knorthy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="145" alt="languages graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=francescaella&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francescaella&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="145" alt="languages graph"  />
 </div>
 
 <br clear="both">
@@ -164,6 +160,6 @@ Feel free to check out my repositories and connect if you’d like to collaborat
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=knorthy&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=francescaella&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
